@@ -1,0 +1,6 @@
+{
+  "name": "Due Note",
+  "description": "Your Business. Your Accounts. Your Control. Offline-first digital bookkeeping and khata platform for Bangladeshi shops and businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
